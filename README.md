@@ -8,3 +8,7 @@ Add several quotes to API
 Change the Styling in the Client.
 Push and observe automati deployments.
 
+Make project directory,initialize git 
+clone express starter
+clone react starter
+
